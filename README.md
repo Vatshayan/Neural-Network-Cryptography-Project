@@ -2,7 +2,7 @@
 
 ## DISTINGUISHING RANDOM BITSTREAM FROM HAMMING ENCODED BITSTREAM
 
-My internship was carried out at Defence Research and Development Organization(DRDO), New Delhi. My area of work was Deep Neural Networks and Cryptography.
+### My internship was carried out at Defence Research and Development Organization(DRDO), New Delhi. My area of work was Deep Neural Networks and Cryptography.
 
 Deep learning is part of a broader family of machine learning methods based on artificial neural networks. Learning can be supervised, semi-supervised or unsupervised. Deep neural networks are the networks that have an input layer, an output layer and at least one hidden layer in between. Each layer performs specific types of sorting and ordering in a process that some refer to as “feature hierarchy.” One of the key uses of these sophisticated neural networks is dealing with unlabeled or unstructured data.  
 
