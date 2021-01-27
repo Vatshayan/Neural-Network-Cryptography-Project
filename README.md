@@ -12,9 +12,9 @@ There are various types of concepts and libraries we studied about, some common 
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
-Hello Viewer :-)
+Hello Viewer,
 
-### Contact me Now (Vatshayan007@gmail.com) for this Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
+### Mail me Now (Vatshayan007@gmail.com) for this Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
 
 Python Programming is done for Development of this Project.
 
@@ -24,3 +24,5 @@ I Usually reply Mails in minutes. Waiting for your Doubts!
 You can use the Idea and Concept of this project in your College project, New Development and Learning.
 
 Lets Join, Learn and Grow together !!!!
+
+For any kind of Help, Mail me **vatshayan007@gmail.com** now.
