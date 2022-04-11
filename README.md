@@ -18,11 +18,6 @@ Hello Viewer,
 
 Python Programming is done for Development of this Project.
 
-If you are not able to Understand this Great Project then Mail me now, I will explain every details and description to you very easily. Mail me Now !!
-
-I Usually reply Mails in minutes. Waiting for your Doubts!
-You can use the Idea and Concept of this project in your College project, New Development and Learning.
-
 Lets Join, Learn and Grow together !!!!
 
 For any kind of Help, Mail me **vatshayan007@gmail.com** now.
