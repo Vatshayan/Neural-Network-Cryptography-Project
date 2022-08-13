@@ -12,12 +12,16 @@ There are various types of concepts and libraries we studied about, some common 
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
-Hello Viewer,
+### Need Code, Documents & Explanation video ? 
 
-### Mail me Now (Vatshayan007@gmail.com) for this Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
+## How to Reach me :
 
-Python Programming is done for Development of this Project.
+### Mail : vatshayan007@gmail.com 
 
-Lets Join, Learn and Grow together !!!!
+### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
-For any kind of Help, Mail me **vatshayan007@gmail.com** now.
+### Website : https://www.finalproject.in/
+
+### 1000 Computer Science Projects : https://www.computer-science-project.in/
+
+Mail/Message me for Projects Help 🙏🏻
