@@ -1,5 +1,7 @@
 # Cryptography-and-Neural-Network-Project
 
+![Disease Prediction using Machine Learning](https://user-images.githubusercontent.com/28294942/209939755-13c89962-118b-45d5-9744-f502802b6403.png)
+
 ## DISTINGUISHING RANDOM BITSTREAM FROM HAMMING ENCODED BITSTREAM
 
 ### My internship was carried out at Defence Research and Development Organization(DRDO), New Delhi. My area of work was Deep Neural Networks and Cryptography.
